@@ -7,6 +7,10 @@ Building a better world with AI & Robotic
 - SDKs
 - Demo projects
 - Neural networks
+- Deep Learning
+- AI Agents
+- LLMs
+- Privacy
 
 ## Projects
 
