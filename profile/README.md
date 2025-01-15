@@ -20,6 +20,7 @@ Building a better world with AI & Robotic
 - [Self-Sovereign AI](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI)
 - [Self-Sovereign AI SDK](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI-SDK) - TBA
 - [HTTP Privacy](https://github.com/AI-Robotic-Labs/http-privacy)
+- [Payment Automatic](https://github.com/AI-Robotic-Labs/payment-automatic)
   
 ## Partner project
 
