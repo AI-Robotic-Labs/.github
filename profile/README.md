@@ -21,7 +21,15 @@ Building a better world with AI & Robotic
 - [Self-Sovereign AI SDK](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI-SDK) - TBA
 - [HTTP Privacy](https://github.com/AI-Robotic-Labs/http-privacy)
 - [Payment Automatic](https://github.com/AI-Robotic-Labs/payment-automatic)
-  
+
+## SDK Premium
+
+Coming Soon
+
+## Models 
+
+Coming soon
+
 ## Partner project
 
 Partner project and part of the [Agentic Alliance](https://agenticalliance.com/)
@@ -30,3 +38,4 @@ Partner project and part of the [Agentic Alliance](https://agenticalliance.com/)
 
 [Algenix: AI Agents custom](https://github.com/Algenix-Org)
 
+[Hugging Face](https://huggingface.co/AI-Robotic-Labs)
