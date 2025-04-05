@@ -28,7 +28,7 @@ Coming Soon
 
 ## Models 
 
-- [Self-Sovereign AI](https://huggingface.co/AI-Robotic-Labs/Self-Soverign-AI) - TBA
+- [Self-Sovereign AI](https://huggingface.co/AI-Robotic-Labs/Self-Soverign-AI)
 - [Nostr Copilot](https://github.com/AI-Robotic-Labs/nostr-copilot)
 
 ## Non-Dev products
