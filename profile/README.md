@@ -35,6 +35,7 @@ Coming Soon
 ## Non-Dev products
 
 - [AI Prompt](https://github.com/AI-Robotic-Labs/ai-prompt)
+- [AI Agent Travel](https://github.com/AI-Robotic-Labs/AI-Agent-Travel)
 
 ## Partner project
 
